@@ -61,6 +61,9 @@
     <table>
         <tr>
             <td>
+                <jsp:text>Enter name: </jsp:text>
+            </td>
+            <td>
                 <form:input path="searchName"/>
             </td>
             <td>
